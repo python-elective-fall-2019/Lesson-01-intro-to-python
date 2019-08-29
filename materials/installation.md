@@ -19,9 +19,17 @@ When pressing enter, you should now see the following
 
 ````
 python3 --version
-Python 3.7.2
+Python 3.7.4
 ````
-If you see something else, python is not installed correct, and you should try again.
+If you see something else, python is not installed correct, and you should try again.  
+
+On Windows (if you did not previously install python) you will be able to type ``` python ``` instead of ``` python3 ```.
+
+````
+   python --version
+   Python 3.7.4
+````
+
 
 ## 2. VS Code
 ### Download and install the text editor VS Code
