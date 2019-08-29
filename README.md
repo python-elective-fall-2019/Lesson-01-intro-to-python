@@ -1,2 +1,2 @@
-# Lesson-01-intro-to-python
+# Lesson 01 Intro to python
 Materials used the 02-09-2019
