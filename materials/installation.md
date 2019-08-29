@@ -26,9 +26,11 @@ If you see something else, python is not installed correct, and you should try a
 On Windows (if you did not previously install python) you will be able to type ``` python ``` instead of ``` python3 ```.
 
 ````
-   python --version
-   Python 3.7.4
+  python --version
+  Python 3.7.4
 ````
+On Mac you will have to follow these steps in order for it to work:    
+[Special for Mac OS: Create an alias python/python3](mac_alias.md)  
 
 
 ## 2. VS Code
