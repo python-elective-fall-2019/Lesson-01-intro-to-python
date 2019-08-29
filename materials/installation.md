@@ -1,4 +1,4 @@
-# Python Elective on KEA CS spring 2019
+# Python Elective at KEA CS fall 2019
 
 # Installation
 1. Install Python, VS Code, Git and create a GitHub account.
